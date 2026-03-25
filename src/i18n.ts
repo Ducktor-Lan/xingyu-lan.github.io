@@ -79,6 +79,8 @@ export const dict = {
       title: "Honours & Awards",
       list: [
         "Sumitomo Mitsui Banking Corporation (SMBC) Scholarship",
+        "Finalist (F Prize), Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)",
+        "Second Prize, China Graduate Mathematical Modeling Contest",
         "Second Prize, Asia and Pacific Mathematical Contest in Modeling (APMCM)",
         "Second Prize, Chinese Collegiate Computing Competition",
         "Second Prize, China Collegiate Computing Contest",
@@ -174,6 +176,8 @@ export const dict = {
       title: "荣誉与奖项",
       list: [
         "三井住友银行（SMBC）奖学金",
+        "美国大学生数学建模竞赛/交叉学科建模竞赛 (MCM/ICM) F奖（Finalist）",
+        "中国研究生数学建模竞赛 全国二等奖",
         "亚太地区大学生数学建模竞赛 (APMCM) 二等奖",
         "中国大学生计算机设计大赛 二等奖",
         "中国高校计算机大赛 二等奖",
